@@ -15,6 +15,7 @@ public class Pessoa {
     double peso = 70;
     char sexo = 'f';
     
+    // sobrecargas de construtores
     public Pessoa() {
         System.out.println("Objeto instanciado!");
     }

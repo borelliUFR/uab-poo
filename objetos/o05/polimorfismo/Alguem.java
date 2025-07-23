@@ -13,8 +13,8 @@ public class Alguem {
         // utilzando o metodo imprimir e 
         // passando como parametro os objetos criados acima
         imprimir(pessoa);
-        //imprimir(salu);
-        //imprimir(juge);
+        imprimir(salu);
+        imprimir(juge);
         
     }
 

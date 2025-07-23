@@ -22,7 +22,7 @@ public class AcaoAnimal {
         
         String texto = "informação";
         
-   
+        can.voar();
         
     }
     

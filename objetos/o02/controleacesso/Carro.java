@@ -45,6 +45,14 @@ public class Carro {
         return ano;
     }
 
+    public void setAno(int ano) {
+        if (ano > 1885) { // O primeiro carro foi inventado em 1886
+            this.ano = ano;
+        } else {
+            System.out.println("Ano inválido!");
+        }
+    }
+
     /**
      * @return the cor
      */
