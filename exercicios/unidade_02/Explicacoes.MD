@@ -169,7 +169,7 @@ Este exercício apresenta o **polimorfismo**, permitindo o uso de uma interface 
 * Classe `UtilitariosMatematicos` com métodos estáticos:
   * `calcularMedia(double, double, double)`
   * `arredondarParaDuasCasas(double)`
-  * `gerarNumeroAleatorioEntre(int, int)`
+  * `gerarNumeroAleatorioEntre(int, int)` 
 
 ### Explicação:
 
